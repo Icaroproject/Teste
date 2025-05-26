@@ -7,3 +7,5 @@ git log
 git checkout
 git master
 caso eu queira recuperar um arquivo é só fazer git add, e depois fazer um commit com nome qualquer e colocar o id que que euro que ele volte com checkout 57c8acca6feb2274c2f705d8513e1d1629e59e5a(id qualquer) -- nome do arquivo
+git pull-puxa do GitHub pro git
+git push-puxa do git pro github
