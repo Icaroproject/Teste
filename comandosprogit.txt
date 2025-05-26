@@ -3,4 +3,6 @@ git add nome do arquivo
 git rm --cached nome do arquivo
 git status
 git commit -m "initial commit" commitei
-dsksdjkjsdksjddskjfamflafkaljfja
+git log
+git checkout
+git master
